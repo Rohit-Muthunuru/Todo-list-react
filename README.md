@@ -10,6 +10,8 @@
 
 
 **npm start**
+
+
 The command npx create-react-app creates the new react app and after the command the new app name is given i.e., create-react-app react-todo
 
 Runs the app in the development mode.
@@ -28,6 +30,7 @@ You may also see any lint errors in the console.
 
 
 **npm i --save @fortawesome/free-solid-svg-icons**
+
  Install three commands for font-designs. 
  
   **npm i uuid**
